@@ -2,6 +2,6 @@
 
 ## Desafio da DIO sobre a criação de um projeto com Git/GitHub
 
--Criação de repositório;
--Execução de comandos básicos;
--Atualização do repositório local e remoto;
+* Criação de repositório;
+* Execução de comandos básicos;
+* Atualização do repositório local e remoto;
